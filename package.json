@@ -1,14 +1,14 @@
 {
   "name": "flame",
-  "version": "2.3.1", // 或者你 fork 的版本
-  "packageManager": "yarn@1.22.19", // 推荐使用 Yarn Classic v1.x
-  "private": true, // 这个字段通常也在
+  "version": "2.3.1", 
+  "packageManager": "yarn@1.22.19", 
+  "private": true, 
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  // ... 其他依赖等 ...
+  
 
   "name": "flame",
   "version": "0.1.0",
